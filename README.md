@@ -1,6 +1,6 @@
 # autogpt_sample
 
-![Langchain Logo](https://example.com/langchain_logo.png)
+![langchain_photo](https://github.com/YZLoh/autogpt_sample/assets/16683726/3e4eab0a-a375-4a01-b2c5-862f186c8ebc)
 
 This project is a YouTube GPT Creator that generates YouTube video titles, scripts (potentially descriptions, tags, thumbnails) based on a given prompt. It utilizes the Langchain library, which is a powerful language model chaining framework.
 
